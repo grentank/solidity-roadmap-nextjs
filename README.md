@@ -1,3 +1,11 @@
+# Solidity Roadmap
+
+Здесь я буду описывать путь изучения `Solidity`: блокчейн, смарт-контракты, Metamask, оракулы и прочее.
+
+Проект будет собран на Next.js, потенциально может даже пригодиться БД (будет удалённая). Если получится, воспользуюсь Feature-Sliced Design, хотя пока не представляю, как он ложится на App Router.
+
+# Next.jS
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
