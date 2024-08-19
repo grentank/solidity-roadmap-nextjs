@@ -7,6 +7,6 @@ contract Faucet {
     int public counter = -10;
 
     function addFund(uint256 value) public {
-        funds = funds + value;
+        funds += value;
     }
 }
